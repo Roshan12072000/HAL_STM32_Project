@@ -1,0 +1,8 @@
+*.mp4
+Debug/
+build/
+*.elf
+*.bin
+*.hex
+.metadata/
+Release/

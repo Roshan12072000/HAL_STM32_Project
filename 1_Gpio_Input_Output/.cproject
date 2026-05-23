@@ -42,9 +42,9 @@
 								</option>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.includepaths.480260076" name="Include paths (-I)" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.option.includepaths" useByScannerDiscovery="false" valueType="includePath">
 									<listOptionValue builtIn="false" value="../Inc"/>
-									<listOptionValue builtIn="false" value="&quot;D:\STM_Workspace\1_Gpio_Input_Output\Drivers\CMSIS\Include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\STM_Workspace\1_Gpio_Input_Output\Drivers\CMSIS\Device\ST\STM32L4xx\Include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;D:\STM_Workspace\1_Gpio_Input_Output\Drivers\STM32L4xx_HAL_Driver\Inc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\STM_HAL_Project\HAL_STM32_Project\1_Gpio_Input_Output\Drivers\CMSIS\Device\ST\STM32L4xx\Include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\STM_HAL_Project\HAL_STM32_Project\1_Gpio_Input_Output\Drivers\CMSIS\Include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\STM_HAL_Project\HAL_STM32_Project\1_Gpio_Input_Output\Drivers\STM32L4xx_HAL_Driver\Inc&quot;"/>
 								</option>
 								<inputType id="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c.360905340" superClass="com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.input.c"/>
 							</tool>
